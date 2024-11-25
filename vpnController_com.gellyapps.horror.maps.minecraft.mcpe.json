@@ -183,20 +183,6 @@
       "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Ilakhtak/refs/heads/main/my_expressvpn_australia_-_woolloomooloo_udp.ovpn"
     },
     
-{
-      "vpnName": "usa",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Ilakhtak/refs/heads/main/my_expressvpn_canada_-_montreal_udp.ovpn"
-    },
-    
-{
-      "vpnName": "usa",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Ilakhtak/refs/heads/main/my_expressvpn_canada_-_toronto_-_2_udp.ovpn"
-    },
-    
-{
-      "vpnName": "usa",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Ilakhtak/refs/heads/main/my_expressvpn_canada_-_toronto_udp.ovpn"
-    },
     
 {
       "vpnName": "usa",
@@ -211,34 +197,7 @@
 {
       "vpnName": "usa",
       "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Ilakhtak/refs/heads/main/my_expressvpn_germany_-_nuremberg_udp.ovpn"
-    },
-  
-{
-      "vpnName": "usa",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Ilakhtak/refs/heads/main/my_expressvpn_france_-_marseille_udp.ovpn"
-    },
-    
-{
-      "vpnName": "usa",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Ilakhtak/refs/heads/main/my_expressvpn_france_-_paris_-_1_udp.ovpn"
-    },
-    
-{
-      "vpnName": "usa",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Ilakhtak/refs/heads/main/my_expressvpn_france_-_paris_-_2_udp.ovpn"
-    },
-    
-{
-      "vpnName": "usa",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Ilakhtak/refs/heads/main/my_expressvpn_france_-_strasbourg_udp.ovpn"
-    },
-    
-    
-{
-      "vpnName": "usa",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Ilakhtak/refs/heads/main/my_expressvpn_new_zealand_udp.ovpn"
     }
-
    
    
   ]
