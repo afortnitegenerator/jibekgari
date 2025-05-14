@@ -1,5 +1,5 @@
 {
-    "ConnectionType": "random",
+    "ConnectionType": "off",
     "VpnUserName": "p4264862",
     "VpnPassword": "ajHbNdM5cq",
     "BlockedCountry": "ca,uk,usa",
